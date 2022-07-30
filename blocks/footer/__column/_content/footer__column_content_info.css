@@ -1,0 +1,6 @@
+.footer__column_content_info {
+  flex-basis: auto;
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+}
